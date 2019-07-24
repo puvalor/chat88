@@ -1,0 +1,24 @@
+{
+  "name": "netclixserver",
+  "version": "1.0.0",
+  "description": "Media Streaming Server",
+  "main": "index.js",
+  "author": "Penstone Valor",
+  "private": true,
+  "license": "UNLICENCED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "webrtc",
+    "streaing",
+    "video",
+    "voice",
+    "chat"
+  ]
+}
